@@ -3,7 +3,7 @@ var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/dark-v10',
     center: [-79.999732, 40.4374],
-    zoom: 4
+    zoom: 3
 });
 
 
